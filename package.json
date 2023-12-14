@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namaste-react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "VishalKalakuntla",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalBadri30/React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VishalBadri30/React/issues"
+  },
+  "homepage": "https://github.com/VishalBadri30/React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
